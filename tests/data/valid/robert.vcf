@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+FN:Robert
+FN:BOB
+TEL:+33 0 12 34 56 78
+EMAIL:robert@gmail.com
+END:VCARD

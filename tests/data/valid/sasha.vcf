@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+FN:Sasha
+TEL;PREF=5;TYPE=work:+33 8 43 57 32 00
+EMAIL;PREF=0:sasha@gmail.com
+END:VCARD

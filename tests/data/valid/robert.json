@@ -1,0 +1,6 @@
+{
+    "kind": { "value": "Individual" },
+    "fns": [{ "value": "Robert" }, { "value": "BOB" }],
+    "tels": [{ "value": "+33 0 12 34 56 78", "pref": null, "types": [] }],
+    "emails": [{ "value": "robert@gmail.com", "pref": null }]
+}
